@@ -1,4 +1,7 @@
+# Videojs on React with chromecast
+
 This project is created provide an example of the implementation of videojs with react hooks and chromecast feature.
+This is inspired by [react-cast-sender](react-cast-sender)
 
 ### CastProvider
 
@@ -7,8 +10,6 @@ Cast Framework is inserted and cast reciever app id is set. It is a must to init
 ### CastPlayer
 
 Provides the load media and cast player controls
-
-This is inspired by [react-cast-sender](react-cast-sender)
 
 ## Available Scripts
 
